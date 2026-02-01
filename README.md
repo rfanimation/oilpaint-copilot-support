@@ -47,14 +47,14 @@ Analyze your paint collection for gaps and get recommendations. Build a complete
 
 ## Links
 
-- [Support & FAQ](SUPPORT.md)
-- [Privacy Policy](PRIVACY.md)
+- [Support & FAQ](support)
+- [Privacy Policy](privacy)
 
 ---
 
 ## Contact
 
-For support, feature requests, or bug reports, please visit our [Support Page](SUPPORT.md).
+For support, feature requests, or bug reports, please visit our [Support Page](support).
 
 ---
 
