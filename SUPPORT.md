@@ -1,3 +1,9 @@
+---
+layout: default
+title: Support
+permalink: /support
+---
+
 # OilPaint Copilot Support
 
 ## Getting Help

@@ -1,3 +1,9 @@
+---
+layout: default
+title: OilPaint Copilot
+permalink: /
+---
+
 # OilPaint Copilot
 
 **Your studio companion for oil painting**
@@ -49,6 +55,7 @@ Analyze your paint collection for gaps and get recommendations. Build a complete
 
 - [Support & FAQ](support)
 - [Privacy Policy](privacy)
+- [Legal Notices](legal)
 
 ---
 
@@ -58,4 +65,6 @@ For support, feature requests, or bug reports, please visit our [Support Page](s
 
 ---
 
-*Made with care for oil painters by RF Animation LLC*
+---
+
+*© 2025-2026 RF Animation LLC. All rights reserved.*
